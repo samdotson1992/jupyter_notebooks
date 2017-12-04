@@ -1,0 +1,166 @@
+abbreviated,label
+Shape,Feature geometry.
+STATEFP10,State FIPS Code
+COUNTYFP10,County FIPS Code
+TRACTCE10,Census Tract Code
+BLKGRPCE10,Block Group Code
+GEOID10,Geographic Identifier
+NAMELSAD10,Full Name
+MTFCC10,MAF/TIGER Feature Classification Code
+FUNCSTAT10,Functional Status
+ALAND10,Land Area 
+AWATER10,Water Area
+INTPTLAT10,Internal Point Latitude
+INTPTLON10,Internal Point Longitude
+Shape_Leng,Length of feature in internal units
+GEOID10_1,"Unique Identifier of Summary Level, Characteristic Iteration, US, State, County, Tract, Block Group Code"
+GEOID,"Unique Identifier of Summary Level, Characteristic Iteration, US, State, County, Tract, Block Group Code"
+SUMLEVEL,Summary Level
+ST,State Number
+NAME,Name of Feature
+COUNTY,County Number
+TRACT,Tract Number
+BLKGRP,Block Group Number
+Total,Total Population
+Male,Total Population-Male
+MUn5Y,Males Under 5 Years of Age
+M5to9Y,Males 5 to 9 Years of Age
+M10to14Y,Males 10 to 14 Years of Age
+M15to17Y,Males 15 to 17 Years of Age
+M18and19Y,Males 18 and 19 Years
+M20Y,Males 20 Years of Age
+M21Y,Males 21 Years of Age
+M22to24Y,Males 22 to 24 Years of Age
+M25to29Y,Males 25 to 29 Years of Age
+M30to34Y,Males 30 to 34 Years of Age
+M35to39Y,Males 35 to 39 Years of Age
+M40to44Y,Males 40 to 44 Years of Age
+M45to49Y,Males 45 to 49 Years of Age
+M50to54Y,Males 50 to 54 Years of Age
+M55to59Y,Males 55 to 59 Years of Age
+M60and61Y,Males 60 and 61 Years of Age
+M62to64Y,Males 62 to 64 Years of Age
+M65and66Y,Males 65 and 66 Years of Age
+M67to69Y,Males 67 to 69 Years of Age
+M70to74Y,Males 70 to 74 Years of Age
+M75to79Y,Males 75 to 79 Years of Age
+M80to84Y,Males 80 to 84 Years of Age
+MOv85Y,Males Over 85 Years of Age
+Female,Total Population-Female
+FUn5Y,Females Under 5 Years of Age
+F5to9Y,Females 5 to 9 Years of Age
+F10to14Y,Females 10 to 14 Years of Age
+F15to17Y,Females 15 to 17 Years of Age
+F18and19Y,Females 18 and 19 Years of Age
+F20Y,Females 20 Years of Age
+F21Y,Females 21 Years of Age
+F22to24Y,Females 22 to 24 Years of Age
+F25to29Y,Females 25 to 29 Years of Age
+F30to34Y,Females 30 to 34 Years of Age
+F35to39Y,Females 35 to 39 Years of Age
+F40to44Y,Females 40 to 44 Years of Age
+F45to49Y,Females 45 to 49 Years of Age
+F50to54Y,Females 50 to 54 Years of Age
+F55to59Y,Females 55 to 59 Years of Age
+F60and61Y,Females 60 and 61 Years of Age
+F62to64Y,Females 62 to 64 Years of Age
+F65and66Y,Females 65 and 66 Years of Age
+F67to69Y,Females 67 to 59 Years of Age
+F70to74Y,Females 70 to 74 Years of Age
+F75to79Y,Females 75 to 79 Years of Age
+F80to84Y,Females 80 to 84 Years of Age
+FOv85Y,Females Over 85 Years of Age
+MedianAge,Median Age-Total Population
+MedianAgeM,Median Age-Male
+MedianAgeF,Median Age-Female
+TotalRace,Total Population-All Races
+White,Total Population-White
+BlackorAA,Total Population-Black or African American
+AmIndAlNat,Total Population-American Indian or Alaskan Native
+Asian,Total Population-Asian
+NHawOPacIs,Total Population-Native Hawiian or Other Pacific Islander
+Other,Total Population-Some Other Race
+R2orMore,Total Population-Two or More Races
+R2orMInOth,"Total Population-Two or More Races, Including Some Other Race"
+R2orMNO3R,"Total Population-Two or More Races, Excluding Some Other Race, and Three or More Races"
+TotHispNoH,Total Population-Hispanic or Not Hispanic or Latino
+NotHisp,Total Population-Not Hispanic or Latino
+Hisp,Total Population-Hispanic or Latino
+TotalHouse,Total Households
+FamHouse,Family Households
+FHMarrCoup,Family Households-Married-Couple Family
+FHOthFam,Family Households-Other Family
+FHMaleHous,"Family Households-Other Family-Male Householder, No Wife Present"
+FHFemHous,"Family Households-Other Family-Female Householder, No Husband Present"
+NonFamHous,Nonfamily Households
+NFHAlone,Nonfamily Households-Householder Living Alone
+NFHNotAln,Nonfamily Households-Householder Not Living Alone
+MedHousInc,Median Household Income in the Past 12 Months
+MedFamInc,Median Family Income in the Past 12 Months
+PerCapInc,Per Capita Income in the Past 12 Months
+TotalUnits,Total Housing Units
+Occupied,Occupied Units
+Vacant,Vacant Units
+GrpQrtPop,Total Population-Group Quarters
+TotPop25Ov,Total Population 25 years and Over
+Male1,Total Males 25 Years and Over
+MNoSchool,Male-No Schooling Completed
+MNursto4Gr,Male-Nursery to 4th Grade
+M5and6Gr,Male-5th and 6th Grade
+M7and8Gr,Male-7th and 8th Grade
+M9Gr,Male-9th Grade
+M10Gr,Male-10th Grade
+M11Gr,Male-11th Grade
+M12GrNoDip,"Male-12th Grade, No Diploma"
+MHSGdorGED,"Male-High School Graduate, GED, or Alternative"
+MColless1Y,"Male-Some College, Less Than 1 Year"
+MColNoDeg,"Male-Some College, 1 or More Years, No Degree"
+MAsscDeg,Male-Associate's Degree
+MBachDeg,Male-Bachelor's Degree
+MMastDeg,Male-Master's Degree
+MProfDeg,Male-Professional School Degree
+MDocDeg,Male-Doctorate Degree
+Female1,Total Females 25 Years and Over
+FNoSchool,Female-No Schooling Completed
+FNursto4Gr,Female-Nursery to 4th Grade
+F5and6Gr,Female-5th and 6th Grade
+F7and8Gr,Female-7th and 8th Grade
+F9Gr,Female-9th Grade
+F10Gr,Female-10th Grade
+F11Gr,Female-11th Grade
+F12GrNoDip,"Female-12th Grade, No Diploma"
+FHSGdorGED,"Female-High School Graduate, GED, or Alternative"
+FColless1Y,"Female-Some College, Less Than 1 Year"
+FColNoDeg,"Female-Some College, 1 or More Years, No Degree"
+FAsscDeg,Female-Associate's Degree
+FBachDeg,Female-Bachelor's Degree
+FMastDeg,Female-Master's Degree
+FProfDeg,Female-Professional School Degree
+FDocDeg,Female-Doctorate Degree
+OwnOccUnit,Total-Owner Occupied Units
+OVLess10K,"Value Less than $10,000"
+OV10K14999,"Value $10,000 to $14,999"
+OV15K19999,"Value $15,000 to $19,999"
+OV20K24999,"Value $20,000 to $24,999"
+OV25K29999,"Value $25,000 to $29,999"
+OV30K34999,"Value $30,000 to $34,999"
+OV35K39999,"Value $35,000 to $39,999"
+OV40K49999,"Value $40,000 to $49,999"
+OV50K5999,"Value $50,000 to $59,999"
+OV60K69999,"Value $60,000 to $69,999"
+OV70K79999,"Value $70,000 to $79,999"
+OV80K89999,"Value $80,000 to $89,999"
+OV90K99999,"Value $90,0000 to $99,999"
+OV100K1249,"Value $100,000 to $124,999"
+OV125K1499,"Value $125,000 to $149,999"
+OV150K1749,"Value $150,000 to $174,999"
+OV175K1999,"Value $175,000 to $199,999"
+OV200K2499,"Value $2000,000 to $249,999"
+OV250K2999,"Value $250,000 to $299,999"
+OV300K3999,"Value $300,000 to $399,999"
+OV400K4999,"Value $4000,000 to $499,999"
+OV500K7499,"Value $500,000 to $749,999"
+OV750K9999,"Value $750,000 to $999,999"
+OV1MillUp,"$1,000,000 or more"
+MedValHous,Median Value (Dollars)
+Shape_Area,Area of feature in internal units squared.
